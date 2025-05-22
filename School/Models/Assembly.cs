@@ -5,7 +5,7 @@ namespace School;
 
 public partial class Assembly
 {
-    public int AssemblyId { get; set; }
+    public int AssemblyId { get; set; }//
 
     public int WorkshopId { get; set; }
 
